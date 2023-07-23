@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prod": "next build && next start -p 8080"
+    "prod": "next build && next start -p $PORT"
   },
   "dependencies": {
     "@types/node": "20.4.4",
