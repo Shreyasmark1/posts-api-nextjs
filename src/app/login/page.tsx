@@ -1,3 +1,5 @@
+'use client';
+
 import Image from 'next/image';
 import { FaRegEnvelope } from 'react-icons/fa';
 import { MdLockOutline } from 'react-icons/md';
